@@ -81,31 +81,6 @@ Choose the approach with the best balance. Document *why* you chose it.
 5. REVIEW    → Re-read your diff; would you approve this PR?
 ```
 
-## Project Context
-
-<!-- Customize this section for your project -->
-
-**Stack**: [Your languages, frameworks, tools]
-**Architecture**: [High-level system design]
-**Key directories**:
-```
-src/          # Source code
-tests/        # Test files
-docs/         # Documentation
-```
-
-**Commands**:
-```bash
-# Build
-make build
-
-# Test
-make test
-
-# Lint
-make lint
-```
-
 ## Before Submitting Changes
 
 - [ ] I've read the code I'm modifying
